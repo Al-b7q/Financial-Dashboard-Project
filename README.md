@@ -123,4 +123,10 @@ The final results were delivered through:
 
 ---
 
-> This project provides a structured and visual exploration of stock trading activity trends to support data-driven decision-making.
+## 📝 Notes
+
+- The original dataset **`fact_stocks.csv`** was replaced with **`fact_stocks_sample.csv`** in this repository due to file size limitations.
+- If you need the full original dataset, simply run the notebook:
+
+  ```bash
+  Financial Dashboard Project.ipynb
